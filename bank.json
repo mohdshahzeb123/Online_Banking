@@ -1,0 +1,98 @@
+{
+  "account": [
+    {
+      "Amount": null,
+      "id": "8329"
+    },
+    {
+      "acno": "SBI102",
+      "pin": "1009",
+      "Name": "Rohan",
+      "Gender": "male",
+      "Country": "India",
+      "Amount": 18500,
+      "id": "6f88"
+    },
+    {
+      "acno": "SBI102",
+      "pin": "1009",
+      "Name": "Rohan",
+      "Gender": "male",
+      "Country": "India",
+      "Amount": -1000,
+      "id": "a49c"
+    },
+    {
+      "acno": "SBI104",
+      "pin": "4556",
+      "Name": "Aryan",
+      "Gender": "Male",
+      "Country": "India",
+      "Amount": null,
+      "id": "45dd"
+    },
+    {
+      "acno": "SBI105",
+      "pin": "1111",
+      "Name": "Tushar",
+      "Gender": "Male",
+      "Country": "India",
+      "Amount": 5000,
+      "id": "17da"
+    },
+    {
+      "acno": "SBI106",
+      "pin": "1111",
+      "Name": "Mohd",
+      "Gender": "Male",
+      "Country": "India",
+      "Amount": 9000,
+      "id": "c478"
+    }
+  ],
+  "mytrans": [
+    {
+      "id": "ddad",
+      "acno": "SBI106",
+      "amount": "500",
+      "date": "10/10/2024",
+      "des": "Deposited"
+    },
+    {
+      "id": "e207",
+      "acno": "SBI106",
+      "amount": "500",
+      "date": "10/10/2024",
+      "des": "Transfered"
+    },
+    {
+      "id": "c46a",
+      "acno": "SBI104",
+      "amount": "500",
+      "date": "10/10/2024",
+      "des": "Recieved"
+    },
+    {
+      "id": "e28f",
+      "acno": "SBI106",
+      "amount": "500",
+      "date": "10/10/2024",
+      "des": "Transfered"
+    },
+    {
+      "id": "2862",
+      "acno": "SBI105",
+      "amount": "500",
+      "date": "10/10/2024",
+      "des": "Recieved"
+    },
+    {
+      "id": "db38",
+      "acno": "SBI105",
+      "amount": "500",
+      "date": "12/23/2024",
+      "des": "withdraw"
+    }
+  ],
+  "userinfo": []
+}
